@@ -1,0 +1,24 @@
+______________________________________________________________________________________
+
+  Agricultural University of Athens
+  School of Applied Economics & Social Sciences
+  Department Of Agricultural Economics & Rural Development
+  Stefanos Stavrianos, UGRD
+  stefanos.stavrianos@outlook.com
+  +30 698 595 5584
+______________________________________________________________________________________
+
+ Before using the program you have to install the latest version of python.
+ Also, you have to write in your terminal:
+
+ > pip install sympy
+
+ > pip install numpy
+
+ > pip install matplotlib
+
+______________________________________________________________________________________
+
+https://www.python.org/downloads/
+
+https://github.com/stefanstavrianos/extermal
