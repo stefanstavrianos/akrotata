@@ -32,11 +32,11 @@ def megisto(sinartisi):
     for i in lisi:
         if f(i) > 0:
             print('\n > Ελάχιστο: y* =', sinar(i),'\n             x* =',i)
-            ax.annotate("Ελάχιστο",xytext=(2,1),xy=(i,sinar(i)), arrowprops={'facecolor':'black'})
+            ax.annotate("Ελάχιστο",xytext=(i,i+20),xy=(i,sinar(i)), arrowprops={'facecolor':'black'})
 
         else:
             print('\n > Μέγιστο: y* =',sinar(i),'\n            x* =',i)
-            ax.annotate("Μέγιστο",xytext=(1,-2.5),xy=(i,sinar(i)), arrowprops={'facecolor':'black'})
+            ax.annotate("Μέγιστο",xytext=(i,i+20),xy=(i,sinar(i)), arrowprops={'facecolor':'black'})
     plt.show()
     
 import os
