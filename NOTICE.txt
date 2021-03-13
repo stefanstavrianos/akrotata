@@ -21,6 +21,6 @@ ________________________________________________________________________________
 
 Links:
 
-https://www.python.org/downloads/
+> https://www.python.org/downloads/
 
-https://github.com/stefanstavrianos/extermal
+> https://github.com/stefanstavrianos/extermal
