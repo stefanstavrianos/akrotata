@@ -9,7 +9,7 @@ ________________________________________________________________________________
 ______________________________________________________________________________________
 
  Hello, Everybody! My name is Stefanos Stavrianos and I make a program in Python, 
- which can find extremum points of a function with the method of second derivative.
+ which can find extremum of a function with the method of second derivative.
  Before using the program you have to install the latest version of Python.
  Also, you have to write in your terminal:
 
@@ -25,4 +25,4 @@ Links:
 
 > https://www.python.org/downloads/
 
-> https://github.com/stefanstavrianos/criticalpointsfinder
+> https://github.com/stefanstavrianos/extremumfinder
