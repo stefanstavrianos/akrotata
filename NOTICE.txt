@@ -23,6 +23,8 @@ ________________________________________________________________________________
 
 Links:
 
-> https://www.python.org/downloads/
+> Download Python: https://www.python.org/downloads/
 
-> https://github.com/stefanstavrianos/extremumfinder
+> Download Program: https://github.com/stefanstavrianos/extremumfinder
+
+> YouTube Tutorial: https://youtu.be/d6EwFWz749Y
