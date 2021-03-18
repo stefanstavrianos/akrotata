@@ -1,5 +1,5 @@
 def megisto(sinartisi):
-    from sympy import Symbol,Function, diff, sin, exp, solve, lambdify, cos, tan
+    from sympy import Symbol, diff, sin, exp, solve, lambdify, cos, tan
     import numpy as np
     import matplotlib.pyplot as plt
     x = Symbol('x')
